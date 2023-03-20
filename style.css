@@ -94,6 +94,7 @@ input:valid ~ label {
 
 .fginput{
     color: black;
+    background-color: rgba(0, 0, 0, 0.08);
 }
 
 .forget label a{
@@ -156,4 +157,13 @@ input:valid ~ label {
 }
 .agree a:hover{
     text-decoration: underline;
+}
+
+.recotxt{
+    color: white;
+    font-size: 10px;
+    padding: 30px 10px;
+}
+.error{
+    display: none;
 }

@@ -1,2 +1,2 @@
 # login-reg
-Cool login/register page w HTML, CSS
+Cool login/register page w HTML, CSS and PHP
